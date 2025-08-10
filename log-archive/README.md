@@ -1,4 +1,4 @@
-# Server Performance Stats
+# Log Archive Tool
 
 This project is a **Log Archive Tool** based on the [DevOps Roadmap log-archive project](https://roadmap.sh/projects/log-archive-tool).  
 It provides a script to collect and display key server metrics, making it easier to monitor server health during DevOps operations.
